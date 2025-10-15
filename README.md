@@ -1,21 +1,21 @@
+<h1 align="center">Hi 👋, I'm Aamir Shahzad</h1>
+<h3 align="center">Creative Graphic Designer | Visual Storyteller | Branding Specialist</h3>
 
-### Aamir Shahzad | UI/UX Developer
+<p align="center">
+  <img src="https://img.shields.io/badge/Design-Driven-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Adobe-Creative%20Suite-FF0000?style=for-the-badge&logo=adobe" />
+  <img src="https://img.shields.io/badge/Tools-Figma%20|%20Illustrator%20|%20Photoshop-orange?style=for-the-badge" />
+</p>
 
-👋 Hi there! I'm Aamir Shahzad, a passionate and creative UI/UX developer with a focus on building intuitive, user-centered digital experiences. I specialize in creating seamless and visually appealing user interfaces, along with enhancing overall user experience across web and mobile platforms.
+---
 
-🛠️ **Technologies I work with**:
+### 🎨 About Me
 
-* **UI/UX Design**: Figma, Sketch, Adobe XD
-* **Web Development**: HTML, CSS, JavaScript, React
-* **Responsive Design**: Flexbox, Grid, Media Queries
-* **Prototyping & Wireframing**: InVision, Marvel, Balsamiq
+I'm a passionate **Graphic Designer** based in [Your Location], specializing in:
 
-🌱 **Current Focus**: Designing for accessibility and performance, improving usability, and crafting interfaces that delight users.
+- 🎯 **Branding & Identity Design**
+- 📱 **Social Media Graphics**
+- 🖥️ **UI Mockups & Web Design**
+- 🖼️ **Print Media (Flyers, Brochures, Posters)**
 
-🔗 Feel free to explore my repositories and check out some of the projects I've worked on. I'm always open to new ideas and collaborations!
-
-📫 **Let's connect**:
-
-* [LinkedIn](your-linkedin-url)
-* [Portfolio](your-portfolio-url)
-
+I believe design is not just about how things look—but how they communicate.
